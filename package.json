@@ -1,0 +1,24 @@
+{
+  "name": "express-lowercase-paths",
+  "version": "1.0.0",
+  "description": "An Express middleware module that will redirect user HTTP requests that contain uppercase letters, to the same URL converted to lowercase, without modifying query parameters.",
+  "main": "express-lowercase-paths.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iZettle/express-lowercase-paths.git"
+  },
+  "keywords": [
+    "express",
+    "express-js",
+    "redirect",
+    "capitlization",
+    "lowercase",
+    "uppercase",
+    "middleware"
+  ],
+  "author": "Damien Timewell",
+  "license": "MIT"
+}
